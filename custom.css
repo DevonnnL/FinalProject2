@@ -1,0 +1,22 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+header img {width:850px;}
+
+img {
+	border-radius:100px;
+}
+
+img{
+    height:350px;
+	width: 750px;
+}
+
+body,.bg-primary,.bg-light{
+	background:lightskyblue !important;
+}
+
+h1,h2,header,p{font-family: "Lexend", sans-serif;font-weight:500;
+}
+  
+  h1 {color: mediumpurple;}
+
+
